@@ -3,7 +3,7 @@ title: "Online test-time adaptation for better generalization of interatomic pot
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: '**Taoyong Cui**, Chenyu Tang, Dongzhan Zhou, Yuqiang Li, Xingao Gong, Wanli Ouyang, Mao Su & Shufei Zhang'
 date: 2025-2-22
 venue: 'Nature Communications 16.1 (2025): 1891'
 paperurl: 'https://www.nature.com/articles/s41467-025-57101-4'

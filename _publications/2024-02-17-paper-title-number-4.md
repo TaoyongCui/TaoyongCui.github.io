@@ -1,7 +1,7 @@
 ---
 title: "TAOTF: A Two-Stage Approximately Orthogonal Training Framework in Deep Neural Networks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: 'https://ebooks.iospress.nl/doi/10.3233/FAIA230310'
 excerpt: '**Taoyong Cui**, , Jianze Li, Yuhan Dong, Li Liu '
 date: 2024-4-5

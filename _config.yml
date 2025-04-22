@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Hong Kong"
 site_theme               : "default"
-title                    : "Personal Homepage"
+title                    : "Taoyong's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Taoyong Cui"
 description              : &description "personal description"

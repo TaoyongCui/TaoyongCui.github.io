@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 &nbsp; <!-- This adds a line break -->
-&nbsp; <!-- This adds a line break -->
 
 Welcome to my personal web page! 
 

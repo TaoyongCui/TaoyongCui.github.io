@@ -2,7 +2,7 @@
 title: "MSGNN: Masked Schema based Graph Neural Networks"
 collection: publications
 category: manuscripts
-permalink: "https://dl.acm.org/doi/10.14778/3712221.3712226"
+permalink: ""
 excerpt: 'Hao Liu, Qianwen Yang, **Taoyong Cui**, Wei Wang'
 date: 2024-12-1
 venue: 'Proceedings of the VLDB Endowment, 2024, 18(3): 571-584.'
